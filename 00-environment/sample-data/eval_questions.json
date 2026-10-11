@@ -1,0 +1,32 @@
+[
+  {
+    "question": "연차는 몇 년도에 며칠이 발생하나요? 입사 후 1년 미만 근로자의 연차는 어떻게 되나요?",
+    "reference_source": "company-policy.md",
+    "ground_truth": "입사 후 1년 미만 근로자에게는 매월 1일의 연차가 발생해 최대 11일이며, 입사 1년이 되는 날 15일이 발생합니다. 이후 2년마다 1일씩 가산되어 최대 25일까지 발생합니다."
+  },
+  {
+    "question": "경조 휴가 중 본인이 결혼하면 며칠을 쓸 수 있나요?",
+    "reference_source": "company-policy.md",
+    "ground_truth": "본인 결혼 시 5일의 경조 휴가가 인정됩니다."
+  },
+  {
+    "question": "복지포인트는 얼마가 지급되고 언제 소멸되나요?",
+    "reference_source": "employee-handbook.md",
+    "ground_truth": "전 직원에게 연 50만 원의 복지포인트가 지급되며, 연말(12월 31일)에 소멸됩니다."
+  },
+  {
+    "question": "출장 숙박비와 식비는 각각 하루 최대 얼마까지 정산되나요?",
+    "reference_source": "employee-handbook.md",
+    "ground_truth": "숙박비는 1박 최대 15만 원, 식비는 1일 최대 4만 원까지 정산됩니다."
+  },
+  {
+    "question": "스마트 매니저 AI 표준 패키지의 구축 비용과 기간은 어떻게 되나요?",
+    "reference_source": "customer-faq.md",
+    "ground_truth": "표준 패키지는 문서 5만 페이지 이하 기준으로 구축기간 2주, 초기 구축비 3,000만 원입니다."
+  },
+  {
+    "question": "무상 보증 기간은 어떻게 되나요?",
+    "reference_source": "customer-faq.md",
+    "ground_truth": "구축 완료일 기준 1년 무상 보증이며, 무상 보증 기간 중 오류는 원격으로 48시간 이내 대응합니다."
+  }
+]
